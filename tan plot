@@ -1,7 +1,8 @@
+% Define the x values 
 x = linspace(-2*pi, 2*pi, 150);
 
-% calculate the tangent function 
-y = tanh(x);
+% calculate the tangent values
+y =tan(x);
 
 % Plot the tangent function 
 figure;
